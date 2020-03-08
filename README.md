@@ -1,11 +1,9 @@
 # mongo_deep
- Tool to make a deep and precise analysis of a Mongo database
+ Python tool used to make a deep and precise analysis of a Mongo database
 
 # usage: 
 
 mongo_reader.py [-h] [-d DB] [-c COLLECTIONS] [-s] [-p] [-v] [-i IO]
-
-Python tool used to make a deep and precise analysis of a Mongo database
 
 optional arguments:
 - -h, --help            show this help message and exit
